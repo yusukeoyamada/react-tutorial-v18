@@ -1,3 +1,7 @@
+※ 当該リポジトリは、v18を使用した[新公式チュートリアル](https://react.dev/learn/tutorial-tic-tac-toe)を実装したもの
+
+---
+
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
 Below you will find some information on how to perform common tasks.<br>
